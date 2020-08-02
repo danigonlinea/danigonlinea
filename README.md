@@ -7,7 +7,7 @@
 
 -  I'm Daniel González, a Frontend Developer from (🏖️ south) Spain.
 -  I have a Bachelor of Technical Engineering in Information Technology (🎓💻 UCA - University of Cádiz)
--  I have 🌱 5+ years of experience .
+-  I have 🌱 5+ years of experience as Web Developer.
 
 ## I consider myself
 
