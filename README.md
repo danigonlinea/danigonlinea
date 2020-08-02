@@ -1,16 +1,27 @@
-### Hi there 👋
+
+********
+# Hi there! 👋😃 
 
 <!--
-**danigonlinea/danigonlinea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**danigonlinea/danigonlinea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+-  I'm Daniel González, a Frontend Developer from (🏖️ south) Spain.
+-  I have a Bachelor of Technical Engineering in Information Technology (🎓💻 UCA - University of Cádiz)
+-  I have 🌱 5+ years of experience .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I consider myself
+
+- Hard-working person caring about user's experience.
+- Optimization always in mind and endeavor to stay current.
+- Delivering quality products.
+- Being positive when facing new challenges.
+- Willing to grow up, always.
+
+## Languages & Tools
+
+- HTML, CSS, JS.
+- React, React Native (Expo), Salesforce LWC.
+- Webstorm / VS Code
+- Others: Figma, npm & yarn, git, moment, lodash, Salesforce DX, Lightning Design System for React, Slack, Redux, JIRA, Zoom, ESlint, Prettier, Webpack.
+
+#### Feel free to leave a message, Thank You! 🙏🏼
