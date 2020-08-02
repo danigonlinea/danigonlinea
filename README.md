@@ -20,8 +20,13 @@
 ## Languages & Tools
 
 - HTML, CSS, JS.
-- React, React Native (Expo), Salesforce LWC.
-- Webstorm / VS Code
-- Others: Figma, npm & yarn, git, moment, lodash, Salesforce DX, Lightning Design System for React, Slack, Redux, JIRA, Zoom, ESlint, Prettier, Webpack.
+- React, React Native (Expo), Salesforce Aura/LWC.
+- Webstorm / VS Code.
+- Designs in Figma.
+- Jest Testing Lib.
+- CI with Bitbucket Pipelines.
+- Ubuntu Mate OS.
+- JS Libs:  Redux, Redux Saga, styled components, moment, lodash, ESlint, Prettier, husky, lint-staged, axios, Webpack.
+- Others: npm, yarn, git, Salesforce DX, Lightning Design System for React, Slack, JIRA, Zoom, G Meet.
 
-#### Feel free to leave a message, Thank You! 🙏🏼
+#### Feel free to leave a ✉️, Thank You! 🙏
